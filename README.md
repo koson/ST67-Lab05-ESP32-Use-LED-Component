@@ -71,6 +71,15 @@ Processing 2 dependencies:
 
 และใน project จะมีโฟลเดอร์ managed_components เพิ่มเข้ามา ด้านในจะมี LED อยู่เช่นเดียวกับตอนที่สร้างเป็น component ในโปรเจค
 
+## บันทึกผลการทดลอง
+1.บันทึกรูปภาพ
+
+![452673405_456774763843924_4732536554693144361_n](https://github.com/user-attachments/assets/182a808b-914d-4911-bc9c-542410636822)
+
+![453654008_335158616223189_6564999699179168474_n](https://github.com/user-attachments/assets/24c3e315-4b46-44e3-8c0a-78953aad1077)
+
+2.บันทึกวิดิโอ
+
 
 
 
@@ -146,6 +155,20 @@ extern "C" void app_main(void)
 
 1.9 Build และทดสอบด้วยบอร์ด ESP32 ถ้ารันผ่าน ให้ commit ขึ้นบน github
 
+## บันทึกผลการทดลอง
+1.บันทึกรูปภาพ
+
+![453678739_8095534787172095_4086543282252309533_n](https://github.com/user-attachments/assets/1953bfc3-d3de-484d-83b1-da45da9a97df)
+
+![451191454_502267235639251_7560916087866649487_n](https://github.com/user-attachments/assets/474bee7a-8ebe-4c23-887b-c4235af5fc19)
+
+
+2.บันทึกวิดิโอ
+
+
+
+
+
 1.10 แก้ไขไฟล์ main.cpp ให้เป็นดังนี้
 
 ```cpp
@@ -179,6 +202,21 @@ extern "C" void app_main(void)
 ```
 
 1.11 Build และทดสอบด้วยบอร์ด ESP32 ถ้ารันผ่าน ให้ commit ขึ้นบน github
+
+## บันทึกผลการทดลอง
+1.บันทึกรูปภาพ
+
+![453709396_882700150371207_5374648338742004054_n](https://github.com/user-attachments/assets/64512c6a-367e-4c17-affe-45f624b76a39)
+
+![452002449_7723153024463071_6225827640342016856_n](https://github.com/user-attachments/assets/167b3306-a829-44d1-9a82-0dde110e87cf)
+
+
+2.บันทึกวิดิโอ
+
+
+
+
+
 
 
 ## Challenge
