@@ -10,11 +10,6 @@ graph RL
 ```
 
 การดึง component มาใช้งาน ช่วยให้ประหยัดเวลาและลดข้อผืดพลาดในการเขียนโปรแกรมได้มาก
-## เว็บไซร์ บน Git Hub https://github.com/AnchisaPhetnoi/ESP32-LED-Component/tree/main/components/LED
-![image](https://github.com/user-attachments/assets/c8f52c52-39d6-429a-99a7-3bc6f003432f)
-![image](https://github.com/user-attachments/assets/58b90c14-dbcd-4d19-b5a4-351153e12d5a)
-
-
 ## การทดลองนำเข้า component จาก github
 
 ### 1.สร้าง ESP32 project ใหม่ "ไฟกระพริบด้วย component"
@@ -28,6 +23,12 @@ dependencies:
     path: components/LED
 ```
 หมายเหตุ ในบรรทัด git: ให้ใส่ชื่อ repository ของนักศึกษาที่มีคอมโพเนนท์ LED
+
+## เว็บไซร์ บน Git Hub https://github.com/AnchisaPhetnoi/ESP32-LED-Component/tree/main/components/LED
+
+![image](https://github.com/user-attachments/assets/c8f52c52-39d6-429a-99a7-3bc6f003432f)
+
+![image](https://github.com/user-attachments/assets/58b90c14-dbcd-4d19-b5a4-351153e12d5a)
 
 1.3 แก้ไขไฟล์ CMAkeLists.txt โดยเปลี่ยน  `main.c` เป็น `main.cpp` ดังต่อไปนี้
 
