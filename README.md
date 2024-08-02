@@ -10,6 +10,10 @@ graph RL
 ```
 
 การดึง component มาใช้งาน ช่วยให้ประหยัดเวลาและลดข้อผืดพลาดในการเขียนโปรแกรมได้มาก
+## เว็บไซร์ บน Git Hub https://github.com/AnchisaPhetnoi/ESP32-LED-Component/tree/main/components/LED
+![image](https://github.com/user-attachments/assets/c8f52c52-39d6-429a-99a7-3bc6f003432f)
+![image](https://github.com/user-attachments/assets/58b90c14-dbcd-4d19-b5a4-351153e12d5a)
+
 
 ## การทดลองนำเข้า component จาก github
 
@@ -218,7 +222,6 @@ extern "C" void app_main(void)
 
 
 
-
 ## Challenge
 
 ให้ทำไฟวิ่งเป็น pattern วิ่งวนลูป ดังต่อไปนี้ 
@@ -267,3 +270,23 @@ extern "C" void app_main(void)
     .*......
     *.......
 ```
+## บันทึกผลการทดลอง
+1.บันทึกรูปภาพ
+
+
+
+
+2.บันทึกวิดิโอ
+
+
+
+
+## โปรแกรมที่ เขียนบน VS code Commit ไปบน Git Hub
+
+https://github.com/AnchisaPhetnoi/LED_Flash_with_component.git
+
+![image](https://github.com/user-attachments/assets/98962bc2-77f4-4a0c-bd7e-dd44bc79294e)
+
+
+
+
