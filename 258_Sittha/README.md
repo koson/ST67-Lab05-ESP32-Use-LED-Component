@@ -46,6 +46,12 @@ extern "C" void app_main(void)
     }
 }
 ```
+
+
+https://github.com/user-attachments/assets/7686d871-b49b-4752-be08-709b79a14099
+
+
+
 2. ไฟวิ่งสองดวงสวนกันตรงกลาง 
 ```
     *......*
@@ -109,6 +115,10 @@ extern "C" void app_main(void)
     }
 }
 ```
+
+
+https://github.com/user-attachments/assets/98d61bd5-3228-4f0d-b7f6-f9b4ba711609
+
 
 
 3. ไฟวิ่งไปกลับ 
@@ -179,3 +189,7 @@ extern "C" void app_main(void)
     }
 }
 ```
+
+
+https://github.com/user-attachments/assets/25c93a8d-4466-4816-a07e-d1b0c844d5d4
+
