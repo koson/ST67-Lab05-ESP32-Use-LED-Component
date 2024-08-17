@@ -315,9 +315,9 @@ https://vt.tiktok.com/ZS2FmWWmC/
 
 ## โปรแกรมที่ เขียนบน VS code Commit ไปบน Git Hub
 
-https://github.com/AnchisaPhetnoi/LED_Flash_with_component.git
+https://github.com/AnchisaPhetnoi/LAB_5.git
+![image](https://github.com/user-attachments/assets/5f307143-0951-46d4-8191-76acd8d956d0)
 
-![image](https://github.com/user-attachments/assets/98962bc2-77f4-4a0c-bd7e-dd44bc79294e)
 
 
 
