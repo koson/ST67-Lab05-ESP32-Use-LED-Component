@@ -277,15 +277,38 @@ https://vt.tiktok.com/ZSYo4wHCo/
 ```
 ## บันทึกผลการทดลอง
 1.บันทึกรูปภาพ
+1.ไฟวิ่งดวงเดียว
+![image](https://github.com/user-attachments/assets/4f582d97-0e56-4db4-8c32-a99377b982bf)
+![image](https://github.com/user-attachments/assets/dd3dda91-e8c9-45a9-a98d-56f896a6ace8)
+![image](https://github.com/user-attachments/assets/2e5292f0-902b-4d1b-968d-6c2a4b69d972)
+![image](https://github.com/user-attachments/assets/57b48dcf-1158-4ca3-8f4f-7aff18dcdae5)
+
+![image](https://github.com/user-attachments/assets/0e85c3cb-2a70-4bad-84cf-2822185408d8)
+
+2.ไฟวิ่งสองดวงสวนกันตรงกลาง 
+![image](https://github.com/user-attachments/assets/394a6e6e-43fa-4ec4-adab-0d9c2dd213d2)
+![image](https://github.com/user-attachments/assets/d527009c-6259-4aa3-8f20-b6f06de7f478)
+![image](https://github.com/user-attachments/assets/e2b50795-46de-4eed-bb69-85634a7b140f)
 
 
 
+3. ไฟวิ่งไปกลับ
+![image](https://github.com/user-attachments/assets/48ab4c98-0151-40c0-955b-89490c16ebae)
+![image](https://github.com/user-attachments/assets/1f029541-2976-4cbc-a7be-961d8a087bf9)
+![image](https://github.com/user-attachments/assets/a5c347a4-e845-478a-bd58-e9c6612762aa)
+![image](https://github.com/user-attachments/assets/aa280d27-281c-42e3-92a2-d34b15bd2de2)
+
+   
 
 2.บันทึกวิดิโอ
+1.ไฟวิ่งดวงเดียว
+https://www.tiktok.com/@ananu0001/video/7404146117023255815?_r=1&u_code=djdi69fma8m8k9&region=TH&mid=6928659354174458630&preview_pb=0&sharer_language=th&_d=e7c23hac00ji0a&share_item_id=7404146117023255815&source=h5_t&timestamp=1723913032&ug_btm=b8727,b2878&sec_user_id=MS4wLjABAAAAOD_mTTbo9hW-oVlzgGuLtF3-bl6tciNn4OMjbDLIkD0WhDOIiahnQsIO4Vz71YXR&utm_source=copy&social_share_type=0&utm_campaign=client_share&utm_medium=ios&tt_from=copy&user_id=6981994339548070914&enable_checksum=1&share_link_id=3236A57B-49CB-4F01-A0D7-50BC718EB6B6&share_app_id=1180
 
+2.ไฟวิ่งสองดวงสวนกันตรงกลาง 
+https://vt.tiktok.com/ZS2FmGcNh/
 
-
-
+3. ไฟวิ่งไปกลับ
+https://vt.tiktok.com/ZS2FmWWmC/
 ## โปรแกรมที่ เขียนบน VS code Commit ไปบน Git Hub
 
 https://github.com/AnchisaPhetnoi/LED_Flash_with_component.git
